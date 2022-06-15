@@ -13,7 +13,7 @@ number of active users between a date range selected by the user.
 
 ### Installing
 
-* You may download the program from the email sent or the GitHub link:
+* You may download the program from the email sent or the GitHub link: https://github.com/koketsobaruti/Dashboard_Application
 *Ensure all necessary dependencies are installed
 
 ### Executing program
