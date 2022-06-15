@@ -1,4 +1,4 @@
-# FoondaMate Intern Software Engineer Coding Challenge-001
+# FoondaMate Intern Software Engineer Coding Challenge-001 by Koketso Baruti
 
 This is a Python application built with Dash, Pandas and Plotly.Express to display the
 number of active users between a date range selected by the user.
